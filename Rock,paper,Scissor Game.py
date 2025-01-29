@@ -1,4 +1,4 @@
-#Rock paper scissors game:-
+print("Well come to the Rock,Paper,Scissor Game....")
 import random
 l=['Rock','Paper','Scissors']
 while True:
